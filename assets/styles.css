@@ -1,0 +1,13 @@
+h1 {
+    padding: 20px;
+}
+p {
+    font-size: 16px;
+    padding: 2px;
+}
+.header-style {
+    background-color: #cdc;
+}
+.dropdownSelect {
+    padding: 10px;
+}
